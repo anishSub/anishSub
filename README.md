@@ -1,5 +1,7 @@
 # Hi there, I'm Anish Subedi! 👋
 
+[![Portfolio](https://img.shields.io/badge/🌐_View_Live_Portfolio-anish--subedi.com.np-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anish-subedi.com.np)
+
 I am a **DevOps Engineer** and **Full Stack Developer** from Nepal 🇳🇵.
 I specialize in building secure cloud-native applications and analyzing financial data.
 
